@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm SEIM 😎
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//.png"></code>
 
 <!--
 **SEIM-CHAN/SEIM-CHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
