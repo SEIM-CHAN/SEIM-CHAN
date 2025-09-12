@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <hr>
-<a href="https://github.com/SEIM-CHAN/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEIM-CHAN&theme=algolia&count_private=true&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEIM-CHAN&theme=algolia&layout=compact" />
-</a>
 
+
+| <a href="https://github.com/SEIM-CHAN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SEIM-CHAN&theme=algolia&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" /></a> | <a href="https://github.com/SEIM-CHAN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEIM-CHAN&theme=algolia&layout=compact" /></a> |
+| ------------- | ------------- |
