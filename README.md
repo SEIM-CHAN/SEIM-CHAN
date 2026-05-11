@@ -15,12 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Languages and Tools:**  
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,python,nextjs,django,docker,aws)](https://skillicons.dev)
-<hr>
-
-
-| <a href="https://github.com/SEIM-CHAN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SEIM-CHAN&theme=algolia&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" /></a> | <a href="https://github.com/SEIM-CHAN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEIM-CHAN&theme=algolia&layout=compact" /></a> |
-| ------------- | ------------- |
+**Languages and Tools:** 
