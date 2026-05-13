@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050816,25:0f172a,50:4c1d95,75:7c3aed,100:22d3ee&height=220&section=header&text=SEIM-CHAN&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Cyber%20Full-Stack%20Developer&descAlignY=65&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050816,25:0f172a,50:4c1d95,75:7c3aed,100:22d3ee&height=220&section=header&text=SEIM-CHAN&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full-Stack%20Developer&descAlignY=65&descSize=18" width="100%" />
 
 <h1>⚡ Iram Sekelli ⚡</h1>
 
